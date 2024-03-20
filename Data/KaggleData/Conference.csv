@@ -101,3 +101,28 @@ Year,Conference,Schls,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournamen
 2019,Southeastern Conference,14,271,188,.590,13.19,9.45,4,7,0,Louisiana State,Auburn
 2019,Big East Conference,10,195,132,.596,10.66,7.42,1,4,0,Villanova,Villanova
 2019,Pacific-12 Conference,12,212,177,.545,7.03,5.14,0,3,0,Washington,Oregon
+Year,Conference,Schls,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+2020,Big Ten Conference,14,290,192,.602,14.29,10.17,6,8,1,Maryland Wisconsin,Iowa
+2020,Atlantic Coast Conference,15,308,205,.600,13.29,8.71,5,7,1,Florida State,Duke
+2020,Big 12 Conference,10,209,129,.618,14.36,9.69,5,6,0,Kansas,Baylor
+2020,Southeastern Conference,14,280,200,.583,12.04,8.64,4,7,0,Kentucky,Auburn
+2020,Big East Conference,10,206,134,.606,11.43,7.65,3,5,0,Seton Hall,Creighton
+2020,Pacific-12 Conference,12,233,168,.581,9.46,6.33,2,4,0,Oregon,Oregon State
+2021,Big Ten Conference,14,291,187,.609,15.02,10.85,7,9,2,Michigan,Illinois
+2021,Atlantic Coast Conference,15,308,206,.599,11.76,8.21,4,7,0,Virginia,Georgia Tech
+2021,Big 12 Conference,10,200,130,.606,14.13,9.44,5,6,1,Baylor,Texas
+2021,Southeastern Conference,14,271,194,.583,11.72,8.24,4,6,0,Alabama,Arkansas
+2021,Big East Conference,11,217,148,.595,11.39,8.02,3,5,1,Villanova,Georgetown
+2021,Pacific-12 Conference,12,222,173,.562,9.91,6.95,2,5,1,Oregon,Oregon State
+2022,Big Ten Conference,14,290,186,.609,14.76,10.41,6,8,1,Wisconsin,Iowa
+2022,Atlantic Coast Conference,15,305,206,.597,11.54,7.98,4,6,0,Duke,Virginia Tech
+2022,Big 12 Conference,10,208,122,.630,15.33,9.96,6,6,1,Baylor,Kansas
+2022,Southeastern Conference,14,284,192,.597,12.46,8.70,5,6,1,Auburn,Tennessee
+2022,Big East Conference,11,218,146,.599,11.82,8.05,4,5,1,Providence,Villanova
+2022,Pacific-12 Conference,12,225,167,.574,9.78,6.89,2,3,0,Arizona,Arizona
+2023,Big Ten Conference,14,283,193,.595,13.96,9.68,5,7,0,Purdue,Iowa
+2023,Atlantic Coast Conference,15,304,207,.595,11.32,7.75,3,5,0,Duke,Miami
+2023,Big 12 Conference,10,208,123,.628,14.91,9.58,5,6,1,Kansas,Texas
+2023,Southeastern Conference,14,280,193,.592,12.24,8.57,4,6,0,Alabama,Texas A&M
+2023,Big East Conference,11,214,146,.594,11.67,7.90,3,4,0,Marquette,Creighton
+2023,Pacific-12 Conference,12,220,168,.567,9.34,6.47,1,3,0,UCLA,Arizona
